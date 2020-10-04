@@ -1,0 +1,27 @@
+/* Add CSS rules here! */
+
+
+
+
+
+ul li{ height: 100px;
+  width: 100px;
+  margin:5px;
+  border:8px white;
+  background-color: rgb(180, 216, 230);
+  list-style: none;
+  font: 60pt  bold   solid black  sans-serif;
+  text-align: center;
+
+}
+
+
+
+
+.box{
+  height: 100px;
+  width:300px;
+  margin:10px;
+  flax-wrap: wrap;
+  display: flex;
+}
